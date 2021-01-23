@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goat_Therapy_WPI_Hackathon", "Goat_Therapy_WPI_Hackathon.csproj", "{D7AF9D31-8E21-4E97-98A5-925C81A78562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7AF9D31-8E21-4E97-98A5-925C81A78562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7AF9D31-8E21-4E97-98A5-925C81A78562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7AF9D31-8E21-4E97-98A5-925C81A78562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7AF9D31-8E21-4E97-98A5-925C81A78562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D788386-F140-42A6-8024-6CAC590602A6}
+	EndGlobalSection
+EndGlobal
